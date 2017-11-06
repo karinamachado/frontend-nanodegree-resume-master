@@ -2,7 +2,7 @@
 
 $("#header").append()
 
-$("#main").append(["funThoughts"]);
+//$("#main").append(["funThoughts"]);
 
 
 var email="karina@womenwhocode.com";
@@ -17,7 +17,7 @@ var awesomeThoughts = "My names is Karina and I am AWESOME!";
 
 var funThoughts = awesomeThoughts.replace("AWESOME","FUN");
 
-$("#main").append(funThoughts);
+//$("#main").append(funThoughts);
 
 
 var formattedName = HTMLheaderName.replace("%data%",name);
